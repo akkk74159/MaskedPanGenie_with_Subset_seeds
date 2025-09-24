@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eric/thesis/MaskedPangenie/src/hmm_gpu.cu
+hmm_gpu.h
+/home/eric/thesis/MaskedPangenie/src/hmm_gpu.h
+cuda_runtime.h
+-
+vector
+-
+stdexcept
+-
+numeric
+-
+iostream
+-
+
+/home/eric/thesis/MaskedPangenie/src/hmm_gpu.h
+vector
+-
+cstddef
+-
+

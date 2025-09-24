@@ -1,0 +1,2 @@
+/home/eric/anaconda3/envs/pangenie/bin/x86_64-conda-linux-gnu-ar qc libhmm_gpu.a CMakeFiles/hmm_gpu.dir/src/hmm_gpu.cu.o
+/home/eric/anaconda3/envs/pangenie/bin/x86_64-conda-linux-gnu-ranlib libhmm_gpu.a
